@@ -1,0 +1,2 @@
+C:/Users/omrii/Desktop/Charity-App/frontend/project_pfe2/android/app/.cxx/Debug/5t2ky552/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/omrii/Desktop/Charity-App/frontend/project_pfe2/android/app/.cxx/Debug/5t2ky552/armeabi-v7a/CMakeFiles/rebuild_cache.dir
